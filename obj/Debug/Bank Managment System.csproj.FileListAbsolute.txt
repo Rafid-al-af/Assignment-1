@@ -1,0 +1,7 @@
+F:\C# code\Bank Managment System\Bank Managment System\bin\Debug\Bank Managment System.exe.config
+F:\C# code\Bank Managment System\Bank Managment System\bin\Debug\Bank Managment System.exe
+F:\C# code\Bank Managment System\Bank Managment System\bin\Debug\Bank Managment System.pdb
+F:\C# code\Bank Managment System\Bank Managment System\obj\Debug\Bank Managment System.csprojAssemblyReference.cache
+F:\C# code\Bank Managment System\Bank Managment System\obj\Debug\Bank Managment System.csproj.CoreCompileInputs.cache
+F:\C# code\Bank Managment System\Bank Managment System\obj\Debug\Bank Managment System.exe
+F:\C# code\Bank Managment System\Bank Managment System\obj\Debug\Bank Managment System.pdb
